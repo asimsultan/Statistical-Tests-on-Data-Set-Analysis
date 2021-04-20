@@ -10,4 +10,4 @@ Various Tests are done with examples and details explanations i.e.
 4) Chi-square Test
 5) One way Anova
 
-Small Sample vs Large Sample
+Small Sample vs Large Sample, Degrees of freedom and the combined variance
