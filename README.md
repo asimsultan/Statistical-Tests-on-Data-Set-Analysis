@@ -10,4 +10,5 @@ Various Tests are done with examples and details explanations i.e.
 4) Chi-square Test
 5) One way Anova
 
-Small Sample vs Large Sample, Degrees of freedom and the combined variance
+Small Sample vs Large Sample, Degrees of freedom and the combined variance for the datasets through the following formula is going to mentioned in quite a detail.
+z = x-u/s(sqrt(n)
